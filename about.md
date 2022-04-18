@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-<p style="font-size: 22px">Universal Principles of Design aims to help engineers and project managers create better products and services using design principles.</p>
+<p style="font-size: 22px">Universal Principles of Design provides convenient access to cross-disciplinary design knowledge to help you create better products and services. Each principle is motivated by a real-world problem faced by designers. Analysis and potential solutions are proposed by applying the principle. Afterwards, a takeaway section goes deeper into when, where, and how to apply the principle.</p>
 
 ## Website Author
 
