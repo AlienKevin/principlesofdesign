@@ -7,6 +7,8 @@ tags: Make-better-design-decisions
 
 ## As the flexibility of a system increases, the usability of the system decreases.
 
+<!--more-->
+
 The flexibility-usability tradeoff is related to the well-known maxim, jack of all trades, master of none. Flexible designs can perform more functions than specialized designs, but they perform the functions less efficiently. Flexible designs are, by definition, more complex than inflexible designs, and as a result are generally more difficult to use. For example, a Swiss Army Knife has many attached tools that increase its flexibility. These tools taken together are less usable and efficient than corresponding individual tools that are more specialized but provide a flexibility of use not available from any single tool. The flexibility-usability tradeoff exists because accommodating flexibility entails satisfying a larger set of design requirements, which invariably means more compromises and complexity in the design.
 
 It is a common assumption that designs should always be made as flexible as possible. However, flexibility has real costs in terms of complexity, usability, time,and money; it generally pays dividends only when an audience cannot clearly anticipate its future needs. For example, personal computers are flexible devices that are difficult to use, relative to more specialized devices like video game players.However, the primary value of a personal computer is that it addresses uncertainty about how it can and will be used: word processing, tax preparation, email. People purchase video game players to play games, but they purchase personal computers to satisfy a variety of needs, many of which are unknown at the time of purchase.
