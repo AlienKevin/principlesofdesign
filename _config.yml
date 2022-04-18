@@ -18,8 +18,8 @@
 ##############################
 text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
+url     : https://github.com/AlienKevin
+baseurl : /principlesofdesign
 title   : Universal Principles of Design
 description: > # this means to ignore newlines until "Language & timezone"
   Universal Principles of Design illustrates design principles,

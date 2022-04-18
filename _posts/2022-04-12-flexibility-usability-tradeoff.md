@@ -3,7 +3,7 @@ title: Flexibility-Usability Tradeoff
 tags: Make-better-design-decisions
 ---
 
-![Illustration for flexibility-usability tradeoff](/assets/images/flexibility_usability_tradeoff.png){:style="max-width:500px"}
+![Illustration for flexibility-usability tradeoff]({{ site.baseurl }}/assets/images/flexibility_usability_tradeoff.png){:style="max-width:850px"}
 
 The flexibility-usability tradeoff is related to the well-known maxim, jack of all trades,master of none. Flexible designs can perform more functions than specializeddesigns, but they perform the functions less efficiently. Flexible designs are, bydefinition, more complex than inflexible designs, and as a result are generally moredifficult to use. For example, a Swiss Army Knife has many attached tools thatincrease its flexibility. These tools taken together are less usable and efficient thancorresponding individual tools that are more specialized but provide a flexibility ofuse not available from any single tool. The flexibility-usability tradeoff exists becauseaccommodating flexibility entails satisfying a larger set of design requirements, which invariably means more compromises and complexity in the design.
 
