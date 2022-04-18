@@ -3,7 +3,7 @@ title: Design by Committee
 tags: Make-better-design-decisions
 ---
 
-![Illustration for design by committee]({{ site.baseurl }}/assets/images/design_by_committee.png){:style="max-width:850px"}
+![Illustration for design by committee]({{ site.baseurl }}/assets/images/design_by_committee.png){:style="max-width:850px; width: 100%;"}
 
 <p style="display: none">A design process based on consensus building, group decision-making, and extensive iteration.</p>
 
@@ -15,7 +15,7 @@ In February 2003, Daniel Libeskind was named the winning designer in the interna
 
 As the design process plodded along year after year, iterating repeatedly through the various commercial, engineering, security, and political factions, all of Libeskind's striking originality was progressively averaged out. What remained was a fairly straightforward, symmetrical, tube-skyscraper with a spire on top. Or, as New York Times Architecture Critic Michael Kimmelman phrased it, "An opaque, shellacked, monomaniacal skyscraper "with no mystery, no unraveling of light, "no metamorphosis over time, "nothing to hold your gaze." And he concludes with, "It implies a metropolis bereft of fresh ideas."
 
-![Designs of the Freedom Tower]({{ site.baseurl }}/assets/images/design_by_committee_freedom_tower.png){:style="max-width:850px"}
+![Designs of the Freedom Tower]({{ site.baseurl }}/assets/images/design_by_committee_freedom_tower.png){:style="max-width:850px; width: 100%;"}
 
 ### Takeaway
 

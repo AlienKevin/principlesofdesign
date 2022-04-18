@@ -3,7 +3,7 @@ title: Iterations
 tags: Make-better-design-decisions
 ---
 
-![Illustration for iterations]({{ site.baseurl }}/assets/images/iterations.png){:style="max-width:850px"}
+![Illustration for iterations]({{ site.baseurl }}/assets/images/iterations.png){:style="max-width:850px; width: 100%;"}
 
 <p style="display: none">Repeating a set of design, development, and test operations, with each repetition building on the last, until the desired result is achieved.</p>
 
@@ -15,7 +15,7 @@ In 1959, the industrialist Henry Kremer created a series of challenges and rewar
 
 Enter the aeronautical engineer Paul MacCready. MacCready knew that the big P problem was not making a human-powered plane but speeding up the design-build-test cycle to learn how to make a human-powered plane, replacing theory and conjecture with real-world testing. By focusing on designing a plane that could be rebuilt in hours versus months, MacCready enabled his team to dramatically speed up iteration, which correspondingly sped up their learning. Six months later, MacCready's Gossamer Condor flew over 2,000 meters, claiming the first Kremer prize. MacCready approached this problem assuming that a lot of failed prototypes are going to be required to solve the problem. And so he focused on getting through them as fast as possible. The phrase "fail fast, fail often" is based on this philosophy. Contrast this with a more traditional approach of spending a lot of time up front doing analysis, planning, and design to build the perfect beast and then expecting it to work the first time out. Even people who intellectually know the perils of this approach often fall into the trap.
 
-![iterations diagram]({{ site.baseurl }}/assets/images/iterations_diagram.png){:style="max-width:850px"}
+![iterations diagram]({{ site.baseurl }}/assets/images/iterations_diagram.png){:style="max-width:850px; width: 100%;"}
 
 ### Takeaway
 

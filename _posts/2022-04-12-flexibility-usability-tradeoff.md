@@ -3,7 +3,7 @@ title: Flexibility-Usability Tradeoff
 tags: Make-better-design-decisions
 ---
 
-![Illustration for flexibility-usability tradeoff]({{ site.baseurl }}/assets/images/flexibility_usability_tradeoff.png){:style="max-width:850px"}
+![Illustration for flexibility-usability tradeoff]({{ site.baseurl }}/assets/images/flexibility_usability_tradeoff.png){:style="max-width:850px; width: 100%;"}
 
 <p style="display: none">As the flexibility of a design increases, the usability of the design decreases.</p>
 
@@ -13,7 +13,7 @@ tags: Make-better-design-decisions
 
 The F-35 joint strike fighter was conceived in the late 1990s to replace the Air Force's F-16, the A-10, the Navy's F/A-18, and the Marine's Harrier. Now if you're not familiar with these planes, that's okay. The point is that the performance requirements for these aircraft are very different and many are in conflict with one another. For example, the optimal design for a high-altitude aircraft where the air is thin has large wings to make turns quickly. Whereas the optimal design for low-altitude aircraft where the air is thick, has small wings, reducing drag and making a small target. Take off and landing from an aircraft carrier requires a rugged and heavy airframe, a lot of extra weight that's not required by a plane that lands on a runway. And vertical takeoff and landing is a whole thing by itself. It means that being able to take off and land like a helicopter and then fly like a normal jet.
 
-![F-35 aimed to replace four other models]({{ site.baseurl }}/assets/images/flexibility_tradeoff_f35.png){:style="max-width:850px"}
+![F-35 aimed to replace four other models]({{ site.baseurl }}/assets/images/flexibility_tradeoff_f35.png){:style="max-width:850px; width: 100%;"}
 
 Imagine the increased complexity of piloting such a craft much less a combination of all four crafts. So how is the F-35 fared? The original estimated cost for an F-35 in 2001 was about $70 million per plane. Today, one F-35A, the Air Force's version, costs $148 million. One F-35B, the Marine Corps version, costs $251 million. And one F-35C, the Navy version, costs a whopping $337 million. And the costs are still rising. The plane is riddled with bugs, performance problems, and usability problems. One critic summarized the situation like this. "The F-35 can't turn, can't climb, can't run. "It is by an objective measure, a failed design."
 

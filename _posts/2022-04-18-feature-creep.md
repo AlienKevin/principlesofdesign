@@ -3,7 +3,7 @@ title: Feature Creep
 tags: Make-better-design-decisions
 ---
 
-![Illustration for feature creep]({{ site.baseurl }}/assets/images/feature_creep.png){:style="max-width:850px"}
+![Illustration for feature creep]({{ site.baseurl }}/assets/images/feature_creep.png){:style="max-width:850px; width: 100%;"}
 
 <p style="display: none">A continuous expansion or addition of new product features beyond the original scope.</p>
 

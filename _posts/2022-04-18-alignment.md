@@ -3,7 +3,7 @@ title: Alignment
 tags: Influence-perception-of-design
 ---
 
-![Illustration for alignment]({{ site.baseurl }}/assets/images/alignment.png){:style="max-width:850px"}
+![Illustration for alignment]({{ site.baseurl }}/assets/images/alignment.png){:style="max-width:850px; width: 100%;"}
 
 <p style="display: none">Things that are aligned are perceived to be more related than things that are not aligned.</p>
 
@@ -17,7 +17,7 @@ The cause of the problem? The ballot violated a fundamental principle of design,
 
 In the case of the ballots in the key Florida counties, a design known as the Butterfly Ballot was used. The ballot presented voters with two pages of candidates separated by a column of punch holes. Voters were to find their candidate, and then perforate the appropriate punch hole to cast their vote. So, voters read top-down on the first page, and saw Al Gore as the second choice in the list. Then, the separating line above Al Gore's name led their eyes right to the second punch hole on the ballot, which led many Gore voters to punch that hole. Unfortunately, for Gore, that second punch hole represented Patrick Buchanan, the candidate on the opposing page. Many Gore voters, no doubt, punched the second hole, detected their error, and then, tried to correct it by punching the correct hole, not realizing this would invalidate their vote. This debacle accounted for the majority of errors in double-votes observed in the ballots. Researchers who analyzed the ballots, and corrected for these types of errors, found that if they had been avoided, Al Gore would have won the election. A ballot design with poorly aligned elements literally decided a U.S. presidential election.
 
-![butterfly ballot]({{ site.baseurl }}/assets/images/alignment_butterfly_ballot.png){:style="max-width:850px"}
+![butterfly ballot]({{ site.baseurl }}/assets/images/alignment_butterfly_ballot.png){:style="max-width:850px; width: 100%;"}
 
 Now, imagine you were the ballot designer. Could you have anticipated the problem? What would you have done differently? The key to making sure the voter's intent is captured correctly, is making sure the candidate information leads the voter's eye unambiguously to the correct punch hole. A simple tweak to the ballot design, presenting the candidates on the same page, and making the row lines clearly aligned with the punch holes, would have fixed the problem.
 
