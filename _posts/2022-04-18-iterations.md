@@ -3,8 +3,6 @@ title: Iterations
 tags: Make-better-design-decisions
 ---
 
-## Repeating a set of design, development, and test operations, with each repetition building on the last, until the desired result is achieved.
-
 ![Illustration for feature creep]({{ site.baseurl }}/assets/images/iterations.png){:style="max-width:850px"}
 
 <!--more-->

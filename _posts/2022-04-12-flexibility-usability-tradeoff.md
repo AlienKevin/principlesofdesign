@@ -3,8 +3,6 @@ title: Flexibility-Usability Tradeoff
 tags: Make-better-design-decisions
 ---
 
-## As the flexibility of a system increases, the usability of the system decreases.
-
 ![Illustration for flexibility-usability tradeoff]({{ site.baseurl }}/assets/images/flexibility_usability_tradeoff.png){:style="max-width:850px"}
 
 <!--more-->

@@ -3,8 +3,6 @@ title: Alignment
 tags: Influence-perception-of-design
 ---
 
-## The placement of elements such that edges line up along common rows or columns, or their bodies along a common center.
-
 ![Illustration for alignment]({{ site.baseurl }}/assets/images/alignment.png){:style="max-width:850px"}
 
 <!--more-->
