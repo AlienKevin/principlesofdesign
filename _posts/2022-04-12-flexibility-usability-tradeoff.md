@@ -23,4 +23,7 @@ The ability of an audience to anticipate future uses of a product is a key indic
 
 The flexibility-usability tradeoff has implications for weighing the relative importance of flexibility versus usability in a design. When an audience has a clear understanding of its needs, favor specialized designs that target those needs as efficiently as possible. When an audience has a poor understanding of its needs, favor flexible designs to address the broadest possible set of future applications.When designing multiple generations of products, consider the general shift toward specialization as audience needs become more defined.
 
-[Learn more on LinkedIn Learning](https://www.linkedin.com/learning/universal-principles-of-design/flexibility-trade-offs)
+### Learn More
+
+* [LinkedIn Learning](https://www.linkedin.com/learning/universal-principles-of-design/flexibility-trade-offs)
+* Page 102 of [Universal Principles of Design](https://www.amazon.com/exec/obidos/ASIN/1592535879/amsi-20)

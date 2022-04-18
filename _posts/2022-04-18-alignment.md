@@ -29,4 +29,7 @@ Although alignment is generally defined in terms of rows and columns, more compl
 
 For most designs, align elements into rows and columns or along a centerline. When elements are not arranged in a row/column format, consider highlighting the alignment paths. Use left- or right-justified text to create the best alignment cues, and consider justified text for complex compositions.
 
-[Learn more on LinkedIn Learning](https://www.linkedin.com/learning/universal-principles-of-design/alignment)
+### Learn More
+
+* [LinkedIn Learning](https://www.linkedin.com/learning/universal-principles-of-design/alignment)
+* Page 24 of [Universal Principles of Design](https://www.amazon.com/exec/obidos/ASIN/1592535879/amsi-20)
