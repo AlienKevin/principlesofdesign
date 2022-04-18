@@ -31,5 +31,5 @@ Consider design by committee when quality, error mitigation, and stakeholder acc
 
 ### Learn More
 
-* [LinkedIn Learning](https://www.linkedin.com/learning/universal-principles-of-design/feature-creep)
+* [LinkedIn Learning](https://www.linkedin.com/learning/universal-principles-of-design/design-by-committee)
 * Page 74 of [Universal Principles of Design](https://www.amazon.com/exec/obidos/ASIN/1592535879/amsi-20)
