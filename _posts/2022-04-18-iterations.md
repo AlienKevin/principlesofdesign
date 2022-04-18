@@ -3,7 +3,7 @@ title: Iterations
 tags: Make-better-design-decisions
 ---
 
-![Illustration for feature creep]({{ site.baseurl }}/assets/images/iterations.png){:style="max-width:850px"}
+![Illustration for iterations]({{ site.baseurl }}/assets/images/iterations.png){:style="max-width:850px"}
 
 <!--more-->
 
