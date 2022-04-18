@@ -5,6 +5,8 @@ tags: Influence-perception-of-design
 
 ![Illustration for alignment]({{ site.baseurl }}/assets/images/alignment.png){:style="max-width:850px"}
 
+<p style="display: none">Things that are aligned are perceived to be more related than things that are not aligned.</p>
+
 <!--more-->
 
 ## Story

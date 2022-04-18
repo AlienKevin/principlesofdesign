@@ -5,6 +5,8 @@ tags: Make-better-design-decisions
 
 ![Illustration for iterations]({{ site.baseurl }}/assets/images/iterations.png){:style="max-width:850px"}
 
+<p style="display: none">Repeating a set of design, development, and test operations, with each repetition building on the last, until the desired result is achieved.</p>
+
 <!--more-->
 
 ### Story

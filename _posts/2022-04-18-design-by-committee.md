@@ -5,6 +5,8 @@ tags: Make-better-design-decisions
 
 ![Illustration for design by committee]({{ site.baseurl }}/assets/images/design_by_committee.png){:style="max-width:850px"}
 
+<p style="display: none">A design process based on consensus building, group decision-making, and extensive iteration.</p>
+
 <!--more-->
 
 ### Story

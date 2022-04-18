@@ -5,6 +5,8 @@ tags: Make-better-design-decisions
 
 ![Illustration for flexibility-usability tradeoff]({{ site.baseurl }}/assets/images/flexibility_usability_tradeoff.png){:style="max-width:850px"}
 
+<p style="display: none">As the flexibility of a design increases, the usability of the design decreases.</p>
+
 <!--more-->
 
 ### Story
