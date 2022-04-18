@@ -21,4 +21,4 @@ Iterative design is not a clean, linear process. Good iteration involves a lot o
 
 ### Learn More
 
-* [LinkedIn Learning](https://www.linkedin.com/learning/universal-principles-of-design/feature-creep)
+* [LinkedIn Learning](https://www.linkedin.com/learning/universal-principles-of-design/iteration)
