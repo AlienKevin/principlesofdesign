@@ -22,12 +22,7 @@ url     : https://github.com/AlienKevin
 baseurl : /principlesofdesign
 title   : Universal Principles of Design
 description: > # this means to ignore newlines until "Language & timezone"
-  Universal Principles of Design illustrates design principles,
-  ranging from the tried and true (the 80/20 rule) to concepts
-  that you may not have ever heard in a design context (Ockham's razor or crowd intelligence.)
-  These principles are critical to successful design—no matter what the discipline.
-  Anyone who creates, designs, engineers, or illustrates will learn invaluable lessons
-  that can take their work to the next level.
+  Universal Principles of Design is a set of best practices to help you design better products and services.
 
 
 ## => Language and Timezone
