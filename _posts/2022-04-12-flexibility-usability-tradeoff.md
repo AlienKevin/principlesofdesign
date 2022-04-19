@@ -9,7 +9,7 @@ tags: Make-better-design-decisions
 
 <!--more-->
 
-### Story
+## Story
 
 The F-35 joint strike fighter was conceived in the late 1990s to replace the Air Force's F-16, the A-10, the Navy's F/A-18, and the Marine's Harrier. Now if you're not familiar with these planes, that's okay. The point is that the performance requirements for these aircraft are very different and many are in conflict with one another. For example, the optimal design for a high-altitude aircraft where the air is thin has large wings to make turns quickly. Whereas the optimal design for low-altitude aircraft where the air is thick, has small wings, reducing drag and making a small target. Take off and landing from an aircraft carrier requires a rugged and heavy airframe, a lot of extra weight that's not required by a plane that lands on a runway. And vertical takeoff and landing is a whole thing by itself. It means that being able to take off and land like a helicopter and then fly like a normal jet.
 
@@ -17,7 +17,7 @@ The F-35 joint strike fighter was conceived in the late 1990s to replace the Air
 
 Imagine the increased complexity of piloting such a craft much less a combination of all four crafts. So how is the F-35 fared? The original estimated cost for an F-35 in 2001 was about $70 million per plane. Today, one F-35A, the Air Force's version, costs $148 million. One F-35B, the Marine Corps version, costs $251 million. And one F-35C, the Navy version, costs a whopping $337 million. And the costs are still rising. The plane is riddled with bugs, performance problems, and usability problems. One critic summarized the situation like this. "The F-35 can't turn, can't climb, can't run. "It is by an objective measure, a failed design."
 
-### Takeaway
+## Takeaway
 
 The flexibility-usability tradeoff is related to the well-known maxim, jack of all trades, master of none. Flexible designs can perform more functions than specialized designs, but they perform the functions less efficiently. Flexible designs are, by definition, more complex than inflexible designs, and as a result are generally more difficult to use. For example, a Swiss Army Knife has many attached tools that increase its flexibility. These tools taken together are less usable and efficient than corresponding individual tools that are more specialized but provide a flexibility of use not available from any single tool. The flexibility-usability tradeoff exists because accommodating flexibility entails satisfying a larger set of design requirements, which invariably means more compromises and complexity in the design.
 
@@ -27,7 +27,7 @@ The ability of an audience to anticipate future uses of a product is a key indic
 
 The flexibility-usability tradeoff has implications for weighing the relative importance of flexibility versus usability in a design. When an audience has a clear understanding of its needs, favor specialized designs that target those needs as efficiently as possible. When an audience has a poor understanding of its needs, favor flexible designs to address the broadest possible set of future applications.When designing multiple generations of products, consider the general shift toward specialization as audience needs become more defined.
 
-### Learn More
+## Learn More
 
 * [LinkedIn Learning](https://www.linkedin.com/learning/universal-principles-of-design/flexibility-trade-offs)
 * Page 102 of [Universal Principles of Design](https://www.amazon.com/exec/obidos/ASIN/1592535879/amsi-20)

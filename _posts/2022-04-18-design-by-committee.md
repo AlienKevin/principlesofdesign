@@ -9,7 +9,7 @@ tags: Make-better-design-decisions
 
 <!--more-->
 
-### Story
+## Story
 
 In February 2003, Daniel Libeskind was named the winning designer in the international contest to rebuild the World Trade Center. His strikingly original design for Freedom Tower used a design process that could be characterized as design by dictator. Meaning a design driven by one person. The product was a twisting, asymmetrical abstract homage to the Statue of Liberty. Despite Libeskind's victory, the design was far from final. The requirements for the building were extraordinarily complex, the consequences of getting the design wrong were unacceptable, and the number of powerful stakeholders was large. Given these conditions, Freedom Tower was destined to be designed by committee.
 
@@ -17,7 +17,7 @@ As the design process plodded along year after year, iterating repeatedly throug
 
 ![Designs of the Freedom Tower]({{ site.baseurl }}/assets/images/design_by_committee_freedom_tower.png){:style="max-width:850px; width: 100%;"}
 
-### Takeaway
+## Takeaway
 
 It is a commonly held view that good design results when projects are driven by an autocratic leader, and bad design results when projects are driven by democratized groups. Many find this notion of an alpha leader romantically appealing, believing that great design requires a tyrannical “Steve Jobs” at the helm to be successful. This notion is, at best, an oversimplification, and in many cases it is simply incorrect.
 
@@ -29,7 +29,7 @@ Design by committee is optimal when committee members are diverse, bias and infl
 
 Consider design by committee when quality, error mitigation, and stakeholder acceptance are primary factors. Consider design by dictator when an aggressive timeline is the primary factor. Favor some form of design by committee for most projects, as it generally outperforms design by dictator on most critical measures with lower overall risk of failure — bad dictators are at least as common as good dictators, and design by dictator tends to lack the error correction and organizational safety nets of committee-based approaches. Autocracy is linear and fast, but risky and prone to error. Democracy is iterative and slow, but careful and resistant to error. Both models have their place depending on the circumstances.
 
-### Learn More
+## Learn More
 
 * [LinkedIn Learning](https://www.linkedin.com/learning/universal-principles-of-design/design-by-committee)
 * Page 74 of [Universal Principles of Design](https://www.amazon.com/exec/obidos/ASIN/1592535879/amsi-20)
